@@ -3,7 +3,9 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs,java,js,angular,react,cpp,linux,lua,git" alt="minhas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
 </div>
 
 <br />
@@ -32,5 +34,9 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/murilobaracho/murilobaracho/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilobaracho/murilobaracho/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilobaracho/murilobaracho/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilobaracho/murilobaracho/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
 </div>
