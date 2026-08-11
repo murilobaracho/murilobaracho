@@ -3,6 +3,7 @@
 <hr/>
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
   <br />
