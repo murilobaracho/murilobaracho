@@ -1,15 +1,11 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋, eu sou o Murilo Baracho!</h1>
+<h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
-</div>
+<br />
 
 ## 🧑‍💻 Sobre Mim
 
-Estou cursando **Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
+Meu nome é **Murilo Baracho**, estou cursando **Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
 
 Já aplico esse conhecimento na prática, construindo sistemas web completos — desde a modelagem de banco de dados e lógica de back-end até a interface final do front-end, passando por arquiteturas em nuvem e automações.
 
@@ -20,6 +16,15 @@ Meu diferencial é a combinação de **visão de sistema completo + velocidade d
 * 🧩 **Atuação:** Front-end (React, Angular, Tailwind), Back-end, Banco de Dados e Hardware/IoT (Arduino).
 * 🤝 **Objetivo:** Aberto a oportunidades de estágio ou posição Júnior em Desenvolvimento.
 * ⚡ **Produtividade:** Uso IA como ferramenta de produtividade para acelerar entregas sem abrir mão da qualidade.
+
+<br />
+
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
+</div>
 
 <br />
 
@@ -47,6 +52,8 @@ Rede social inovadora desenvolvida para adolescentes que buscam planejar e molda
 - 🔒 **Autenticação & Registro:** Telas dedicadas para acesso seguro dos usuários.
 - 📚 **Módulos de Desenvolvimento:** Seções integradas focadas em Trabalho (carreira e metas), Vida (hábitos e reflexões) e Família (relações de apoio).
 - ✉️ **Suporte & Contato:** Canal direto para comunicação com a equipe da plataforma.
+
+**🔗 [Ver projeto ao vivo](https://murilobaracho.github.io/FutureCast/)**
 
 `HTML` `CSS` `JavaScript` `UI/UX` `Social Platform`
 
