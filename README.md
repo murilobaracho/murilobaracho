@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, eu sou Murilo Baracho!</h1>
+<h1 align="center">Olá 👋, meu nome é Murilo!</h1>
 <h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
 
 <div align="center">
@@ -28,9 +28,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Meu nome é **Murilo Baracho**, estou cursando **Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
+Meu nome é **Murilo Baracho**, estou cursando o ** Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
 
-Já aplico esse conhecimento na prática, construindo sistemas web completos — desde a modelagem de banco de dados e lógica de back-end até a interface final do front-end, passando por arquiteturas em nuvem e automações.
+Já aplico esse conhecimento na prática, construindo sistemas web completos, desde a modelagem de banco de dados e lógica de back-end até a interface final do front-end, passando por arquiteturas em nuvem e automações.
 
 Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
 
@@ -45,7 +45,7 @@ Meu diferencial é a combinação de **visão de sistema completo + velocidade d
 ## 🚀 Projetos em Destaque
 
 ### 🔹 [WhatsApp Bot Panel](https://github.com/murilobaracho/bot-wpp-connect)
-Bot de automação para WhatsApp desenvolvido em Node.js com WPPConnect e painel web integrado para controle total via navegador — sem necessidade de alterar o código.
+Bot de automação para WhatsApp desenvolvido em Node.js com WPPConnect e painel web integrado para controle total via navegador, sem necessidade de alterar o código.
 
 - 🌐 **Painel Web Local:** Conecte/desconecte via QR Code direto na página, edite mensagens e faça disparos pelo navegador.
 - 📊 **Dashboard Completo:** Métricas de atendimentos automáticos, contatos únicos e gráfico de envios dos últimos 14 dias.
