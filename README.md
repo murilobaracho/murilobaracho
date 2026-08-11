@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Meu nome é **Murilo Baracho**, estou cursando o ** Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
+Meu nome é **Murilo Baracho**, estou cursando o **Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas na ETEC Darcy Pereira de Moraes**, com foco em atuar como **Desenvolvedor FullStack**.
 
 Já aplico esse conhecimento na prática, construindo sistemas web completos, desde a modelagem de banco de dados e lógica de back-end até a interface final do front-end, passando por arquiteturas em nuvem e automações.
 
