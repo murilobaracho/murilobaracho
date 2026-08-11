@@ -1,6 +1,11 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<br />
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
+</div>
 
 ## 🧑‍💻 Sobre Mim
 
