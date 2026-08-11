@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, eu sou Murilo Baracho!</h1>
 <h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
-<hr/>
+
+<br />
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
-<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
   <br />
