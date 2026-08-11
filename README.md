@@ -1,6 +1,13 @@
 <h1 align="center">Hey 👋, eu sou o Murilo Baracho!</h1>
 <h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
 
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
+</div>
+
 <br />
 
 ## 🧑‍💻 Sobre Mim
@@ -16,15 +23,6 @@ Meu diferencial é a combinação de **visão de sistema completo + velocidade d
 * 🧩 **Atuação:** Front-end (React, Angular, Tailwind), Back-end, Banco de Dados e Hardware/IoT (Arduino).
 * 🤝 **Objetivo:** Aberto a oportunidades de estágio ou posição Júnior em Desenvolvimento.
 * ⚡ **Produtividade:** Uso IA como ferramenta de produtividade para acelerar entregas sem abrir mão da qualidade.
-
-<br />
-
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
-</div>
 
 <br />
 
