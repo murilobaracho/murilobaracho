@@ -23,15 +23,6 @@ Meu diferencial é a combinação de **visão de sistema completo + velocidade d
 
 <br />
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,aws,azure,arduino,postgres,cs" alt="tecnologias linha 1" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=java,js,angular,react,cpp,linux,lua,git" alt="tecnologias linha 2" />
-</div>
-
-<br />
-
 ## 🚀 Projetos em Destaque
 
 ### 🔹 [WhatsApp Bot Panel](https://github.com/murilobaracho/bot-wpp-connect)
