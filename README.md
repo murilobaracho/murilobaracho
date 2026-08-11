@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, eu sou o Murilo Baracho!</h1>
 <h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
+<br/>
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 <div align="center">
