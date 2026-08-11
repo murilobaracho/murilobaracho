@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up - I'm Murilo Baracho?</h1>
+<h1 align="center">Hey 👋 What's Up? - I'm Murilo Baracho</h1>
 
 <br />
 
