@@ -32,7 +32,7 @@ Meu nome é **Murilo Baracho**, estou cursando o **Ensino Médio Integrado ao T�
 
 Já aplico esse conhecimento na prática, construindo sistemas web completos, desde a modelagem de banco de dados e lógica de back-end até a interface final do front-end, passando por arquiteturas em nuvem e automações.
 
-Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
+Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução juntamente com minha formação complementar em Hardware e Infraestrutura de Redes**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
 
 * 🔭 **Atualmente:** Aprimorando projetos FullStack com foco em sistemas reais e soluções completas.
 * 🌱 **Aprofundando conhecimentos:** TypeScript, Python, C#, Java, PostgreSQL e Cloud (AWS/Azure).
