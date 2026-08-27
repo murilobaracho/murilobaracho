@@ -58,6 +58,20 @@ Bot de automação para WhatsApp desenvolvido em Node.js com WPPConnect e painel
 
 ---
 
+### 🔹 [SilentSOS (FETEC)](https://github.com/murilobaracho/FETEC-SilentSOS)
+Sistema Inteligente de Alerta Silencioso e Assistência de Emergência desenvolvido para a FETEC. Uma aplicação nativa para Android para pedidos de socorro discretos.
+
+- 🔴 **Acionamento Discreto:** Envio de alertas de emergência sem chamar atenção no dispositivo.
+- ⌚ **Integração com Wear OS:** Gatilhos e sincronização remota via relógio inteligente.
+- 🔘 **Atalho por Botões Físicos:** Serviço de acessibilidade para detecção de acionamento rápido.
+- ⚙️ **Foreground Service:** Execução contínua em segundo plano garantindo estabilidade do monitoramento.
+- 🎭 **Tela de Falso Desligamento:** Interface de disfarce para simular o desligamento do aparelho enquanto mantém os alertas ativos.
+- 📜 **Histórico Local:** Armazenamento seguro do registro de emergências e acionamentos.
+
+`Kotlin` `Jetpack Compose` `Android` `Wear OS` `AccessibilityService`
+
+---
+
 ### 🔹 [FutureCast](https://github.com/murilobaracho/FutureCast)
 Rede social inovadora desenvolvida para adolescentes que buscam planejar e moldar seu futuro. Uma plataforma interativa para conectar jovens, compartilhar metas acadêmicas, profissionais e acelerar o desenvolvimento pessoal.
 
