@@ -72,6 +72,18 @@ Sistema Inteligente de Alerta Silencioso e Assistência de Emergência desenvolv
 
 ---
 
+### 🔹 [ETEC Bank (Java CRUD)](https://github.com/murilobaracho/java-crud)
+Sistema bancário executado via terminal (CLI) desenvolvido em Java. A aplicação simula operações reais de uma agência conectando-se diretamente a um banco de dados relacional.
+
+- 💰 **Consulta de Saldo e Extrato:** Histórico completo de movimentações e saldo em tempo real.
+- 🔄 **Transações Seguras:** Sistema de transferências com verificação de saldo e controle rigoroso de transações (*Commit* e *Rollback*).
+- 📝 **Gestão de Empréstimos:** Cadastro de novas solicitações e listagem de empréstimos pendentes.
+- 🔒 **Segurança de Credenciais:** Leitura de variáveis de ambiente via arquivo `.env`.
+
+`Java` `JDBC` `MySQL` `SQL` `CLI`
+
+---
+
 ### 🔹 [FutureCast](https://github.com/murilobaracho/FutureCast)
 Rede social inovadora desenvolvida para adolescentes que buscam planejar e moldar seu futuro. Uma plataforma interativa para conectar jovens, compartilhar metas acadêmicas, profissionais e acelerar o desenvolvimento pessoal.
 
