@@ -58,7 +58,7 @@ Bot de automação para WhatsApp desenvolvido em Node.js com WPPConnect e painel
 
 ---
 
-### 🔹 [SilentSOS (FETEC)](https://github.com/murilobaracho/FETEC-SilentSOS)
+### 🔹 [SilentSOS](https://github.com/murilobaracho/FETEC-SilentSOS)
 Sistema Inteligente de Alerta Silencioso e Assistência de Emergência desenvolvido para a FETEC. Uma aplicação nativa para Android para pedidos de socorro discretos.
 
 - 🔴 **Acionamento Discreto:** Envio de alertas de emergência sem chamar atenção no dispositivo.
