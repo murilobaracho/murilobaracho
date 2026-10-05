@@ -80,7 +80,7 @@ Sistema bancário executado via terminal (CLI) desenvolvido em Java. A aplicaç�
 - 📝 **Gestão de Empréstimos:** Cadastro de novas solicitações e listagem de empréstimos pendentes.
 - 🔒 **Segurança de Credenciais:** Leitura de variáveis de ambiente via arquivo `.env`.
 
-`Java` `JDBC` `MySQL` `SQL` `CLI`
+`Java` `JDBC` `SQL` `CLI`
 
 ---
 
