@@ -35,7 +35,7 @@ Já aplico esse conhecimento na prática, construindo sistemas web completos, de
 Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução juntamente com minha formação complementar em Hardware e Infraestrutura de Redes**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
 
 * 🔭 **Atualmente:** Aprimorando projetos FullStack com foco em sistemas reais e soluções completas.
-* 🌱 **Aprofundando conhecimentos:** TypeScript, Python, C#, Java, PostgreSQL e Cloud (AWS/Azure).
+* 🌱 **Aprofundando conhecimentos:** TypeScript, JavaScript, Python, C#, Java, PostgreSQL e Cloud/DevOps (AWS/Azure).
 * 🧩 **Atuação:** Front-end (React, Angular, Tailwind), Back-end, Banco de Dados e Hardware/IoT (Arduino).
 * 🤝 **Objetivo:** Aberto a oportunidades de estágio ou posição Júnior em Desenvolvimento.
 * ⚡ **Produtividade:** Uso IA como ferramenta de produtividade para acelerar entregas sem abrir mão da qualidade.
@@ -73,14 +73,14 @@ Sistema Inteligente de Alerta Silencioso e Assistência de Emergência desenvolv
 ---
 
 ### 🔹 [JavaBank](https://github.com/murilobaracho/java-crud)
-Sistema bancário executado via terminal (CLI) desenvolvido em Java. A aplicação simula operações reais de uma agência conectando-se diretamente a um banco de dados relacional.
+Sistema bancário desenvolvido em Java executando sob JavaFX. A aplicação simula operações reais de uma agência conectando-se diretamente a um banco de dados relacional.
 
 - 💰 **Consulta de Saldo e Extrato:** Histórico completo de movimentações e saldo em tempo real.
 - 🔄 **Transações Seguras:** Sistema de transferências com verificação de saldo e controle rigoroso de transações (*Commit* e *Rollback*).
 - 📝 **Gestão de Empréstimos:** Cadastro de novas solicitações e listagem de empréstimos pendentes.
 - 🔒 **Segurança de Credenciais:** Leitura de variáveis de ambiente via arquivo `.env`.
 
-`Java` `JDBC` `SQL` `CLI`
+`Java` `JDBC` `SQL`
 
 ---
 
